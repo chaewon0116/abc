@@ -1,0 +1,7 @@
+a=int(input())
+b=int(input())
+op=int()
+if op =='+': print(a+b)
+if op =='-': print(a-b)
+if op =='*': print(a*b)
+if op =='/': print(a/b)
